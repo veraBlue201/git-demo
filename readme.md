@@ -22,3 +22,6 @@ TEST TEST TEST
 ## another modification
 
 MOre text
+
+And first paragraph will be this:
+Lorem ipsum
